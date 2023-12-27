@@ -14,8 +14,8 @@ mq135_pin = 0  # Replace with the actual ADC pin number you're using
 mq135_adc = ADC(mq135_pin)
 
 # Set up Wi-Fi connection
-ssid = "ruby"
-password = "9953129282"
+ssid = "wifi"
+password = "password"
 ap = network.WLAN(network.STA_IF)
 ap.active(True)
 ap.connect(ssid, password)
