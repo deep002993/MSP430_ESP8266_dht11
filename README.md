@@ -1,4 +1,4 @@
-# MSP430G2553-ESP8266-DHT11-SSD1306 Environmental Monitoring System
+# MSP430G2553_LUNCHBOX-ESP8266-DHT11-SSD1306 Environmental Monitoring System
 
 Real-time environmental monitoring system featuring MSP430G2553 microcontroller, 
 ESP8266 Wi-Fi module, DHT11 sensor, MQ135 air quality sensor, and SSD1306 OLED display. 
